@@ -227,7 +227,7 @@ python il/train_rl.py --bc-ckpt checkpoints/obs2_bc.pt --out runs/obs2_ppo_new
 
 **Sookmyung Women's University · Deep Learning · Team 3**
 
-교수님 제공 [과제 프레임워크](https://github.com/jooyongsim/deeplearning_SMWU_2026) 기반 프로젝트<br />
+숙명여자대학교 기계시스템학부 심주용 교수님 제공 [과제 프레임워크](https://github.com/jooyongsim/deeplearning_SMWU_2026) 기반 프로젝트<br />
 [Sources & Attribution](ATTRIBUTION.md) · [Experiment Notes](docs/PROJECT_STORY.md)
 
 </div>
