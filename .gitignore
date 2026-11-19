@@ -1,0 +1,33 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+.vscode/
+.idea/
+# Private training data and generated artifacts
+/demos/*
+!/demos/README.md
+runs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.zip
+*.mp4
+*.avi
+*.docx
+*.pptx
+*.pdf
+mjmodel.xml
+# Required reference data under data/ is intentionally tracked.
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+{
+  "source": "DL_assignment01/DL_assignment01/runs/final_version/!!obs2/ckpt.pt",
+  "copy": "checkpoints/obs2_bc.pt",
+  "sha256": "9c439c5499fda3aca930f55f85338952d6bcdd1f6642d3c70f020a1cc7dacef8",
+  "historical_evaluation_identity": "unverified",
+  "local_demo_count": 73
+}

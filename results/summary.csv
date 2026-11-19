@@ -1,0 +1,6 @@
+model,episodes,final_success_rate,ever_success_rate,pos_mm,rot_deg,shape_mm
+obs1_bc,50,0.52,0.54,13.7,7.15,11.55
+obs2_bc,50,0.82,0.88,13.3,5.35,3.8499999999999996
+obs4_bc,50,0.44,0.58,14.35,9.5,7.95
+obs2_bc_ppo,50,0.82,0.9,14.2,3.75,6.5
+new_demos_ppo,50,0.8,0.9,10.95,7.1,6.85
